@@ -1,4 +1,4 @@
-# WGS
+# WGS-analysis
 Analysis code for genome data
 
 ## Data processing
